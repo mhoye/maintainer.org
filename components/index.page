@@ -1,18 +1,11 @@
 <div id="content"> 
 <p>Maintainers.org exists to help open source developers find help maintaining their projects and communities.</p>
 
-<p>This is version 0.01 of Maintainers.org - a mailing list. Anyone can sign up, and all posts are verified before approval.</p>
+<p>This is version 0.01 of Maintainers.org - <a href="feeds.html">a mailing list</a>. Anyone can sign up, and all posts are verified before approval.</p>
+
 
 <p>This site was created by Mike Hoye, and lives <a href="https://github.com/mhoye/maintainer.org">on Github</a>, where suggestions
 and pull requests are always welcome.</p>
 
 
-
-<iframe id="forum_embed" src="javascript:void(0)" scrolling="no" frameborder="0" width="900" height="700"> </iframe> 
-<script type="text/javascript"> 
-document.getElementById('forum_embed').src = 
-	'https://groups.google.com/forum/embed/?place=forum/maintainer-org'
-      + '&showsearch=true&showpopout=true&showtabs=false'  
-      + '&parenturl=' + encodeURIComponent(window.location.href); 
-</script>
 </div>
