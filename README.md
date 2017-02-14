@@ -6,7 +6,8 @@ wish to run.
 
 Preliminary sketches:
 
-- As static as possible. Site is regenerated server side, CSS inline, etc. 
+- As static as possible. Site is regenerated server side, CSS inline, etc.
+  - tools/rebuild-site.sh  
 
 - Help with or handoff requests filed via pull request.
   - Structure?
@@ -17,13 +18,14 @@ Preliminary sketches:
   - Skillset - JS, Python, Illustrator, other.
   - Other text?
 
-- Regenerate site, add to RSS feed.
+- Preliminary process:
+  - Mailing list
+  - Link to RSS feed
+  - link RSS feed to Twitter via IFTTT?
 
-To do:
+- Next steps.
+  - Forums?
+  - Marketing it?
+  - (G-Ads?)
 
-- Write and style index.html
-- Learn some mobile CSS tricks. (check, kinda?) 
-
-- Write some code that stands up both some HTML and an RSS feed.
-- Write some server-side croncat stuff to tie it all together.
 
