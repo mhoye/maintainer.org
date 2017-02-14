@@ -1,6 +1,9 @@
 #~/bin/sh
 
 # Assemble the components of the site; a CMS seems badly overkill at this point.
+#
+# This script expects to be run from the directory it's in. C'est la vie.
+#
 # It's written like this on purpose.
 
 SITE=/var/www/maintainer.org
