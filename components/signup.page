@@ -1,0 +1,53 @@
+<div id="header">
+
+<p>
+<h2>Send a request.<h2>
+</p>
+</div>
+<div id="content">
+<p>
+Maintaining Open Source projects is an ongoing challenge. 
+</p>
+
+<p>
+
+</p>
+
+<p>Sign up here:
+</p>
+
+<p>
+<form action="index.py" method="post">
+<div class="form"><div class="label">Name or IRC handle:</div> <div class="choice"><input type="text" name="nickname"/></div></div>
+<div class="form"><div class="label">Email address:</div><div class="choice"><input type="text" name="email" /></div></div>
+<div class="form"><div class="label">How many bugs?</div>
+<div class="choice"><select name="number">
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="5">5</option>
+<option value="8">8</option>
+<option value="12">12</option>
+</select></div></div>
+<div class="form"><div class="label">How often?</div> 
+<div class="choice"><select name="rate">
+<option value="daily">Daily</option>
+<option value="workdays">Mon-Fri</option>
+<option value="weekly">Weekly</option>
+</select></div></div>
+<div class="form"><div class="label">I can help to reproduce bugs:</div><div class="choice"><input type="checkbox" name="strs" /></div></div>
+<div class="form"><div class="label">I can find regression ranges:</div><div class="choice"><input type="checkbox" name="regressions" /></div></div>
+<div class="form"><div class="label">&nbsp;</div><div class="choice"><input type="submit" value="Submit"></div></div></p>
+</form>
+</p>
+</div>
+</div>
+
+<div id="footer">
+This is an experimental service. Email will arrive from "Triage Robot &lt;noreply@mozilla.com&gt;",
+and you can unsubscribe <a href="unsubscribe.py">here</a>. Please file any bugs <a href="https://bugzilla.mozilla.org/enter_bug.cgi?product=Community%20Building&component=Systems%20and%20Data">in
+Bugzilla under [Community Tools::Systems And Data]</a> and if you have any feedback, and for more information <a href="mailto:mhoye@mozilla.com">mail Mike Hoye</a>
+</div>
+
+</body>
+</html>
