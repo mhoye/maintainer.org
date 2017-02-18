@@ -12,5 +12,16 @@ Preliminary to-do:
   - Forums?
   - (G-Ads?)
 
-- less ugly? 
+- Provide framework for mailing list submission:
+  - Name
+  - URL
+  - Requirements 
+    - skills?
+    - time investment?
+    - Languages (code, spoken?)
+  - Contact info
+    - Forums?
+
+Aspirational goals:
+- Site less ugly? 
 
