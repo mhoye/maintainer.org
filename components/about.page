@@ -1,10 +1,14 @@
 <div id="content"> 
-Maintainers.org was started by Mike Hoye in January of 2017. The goal of Maintainers.Org is to share resources and expertise in Open Source project maintenance and community management, and to help people get help.
+Maintainer.org was started by Mike Hoye in January of 2017. The goal of Maintainers.Org is to share resources and expertise in Open Source project maintenance and community management, and to help people get help.
 
-Our community participation policy and code of conduct are [something cribbed from or closely derived from the Geek Feminism wiki]
+It was inspired by Nadia Eghbal's 2017 LinuxConf Australia keynote, "Consider The Maintainer."
 
-Our privay policy is [something that makes it clear the whole goal of this site is sharing information but doesn't make us look like a bag of dicks].
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/W2AR1owg0ao" frameborder="0" allowfullscreen></iframe></center>
 
-If you have questions or concerns, please comment on GitHub, or in emergencies email mhoye@bespokeio.com
+Our <a href="coc.html">community participation policy and code of conduct are here</a>.
+
+Our privacy policy is extremely limited - posts to maintainer.org forums are public, though we will  
+
+If you have questions or concerns, please comment on GitHub or <a href="mailto:mhoye@bespokeio.com?subject=maintainer.org">mhoye@bespokeio.com</a> directly.
 
 </div>
