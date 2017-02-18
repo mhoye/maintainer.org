@@ -1,11 +1,13 @@
 <div id="content"> 
 <p>Maintainers.org exists to help open source developers find help maintaining their projects and communities.</p>
 
-<p>This is version 0.01 of Maintainer.org - <a href="feeds.html">a mailing list</a>. Anyone can sign up, and all posts are verified before approval.</p>
+<p>This is a tentative first draft, version 0.01 of Maintainer.org: 
+<a href="http://github.org/mhoye/maintainer.org">a Github Repo</a> 
+and <a href="feeds.html">a mailing list</a>. Anyone can sign up; posts are verified before approval.</p>
 
+<p>Suggestions and pull requests are welcomed.</p>
 
-<p>This site was created by Mike Hoye, and lives <a href="https://github.com/mhoye/maintainer.org">on Github</a>, where suggestions
-and pull requests are always welcome.</p>
+Sign up for the <a href="feeds.html">mailing list here</a>, or follow <a href="https://twitter.com/maintainerorg">MaintainerOrg on Twitter</a>.
 
 
 </div>

@@ -2,13 +2,12 @@
 
 <p><h2>The Maintainer.org mailing list.</h2></p>
 
-<iframe id="forum_embed" src="javascript:void(0)" scrolling="no" frameborder="0" width="900" height="700"></iframe> 
+<center><iframe id="forum_embed" src="javascript:void(0)" scrolling="no" frameborder="0" width="900" height="700"></iframe> 
 <script type="text/javascript"> document.getElementById('forum_embed').src =
          'https://groups.google.com/forum/embed/?place=forum/maintainer-org'
        + '&showsearch=true&showpopout=true&showtabs=false'
-       + '&parenturl=' + encodeURIComponent(window.location.href); </script>
+       + '&parenturl=' + encodeURIComponent(window.location.href); </script></center>
 
-<p>Twitter, RSS coming soon.</p>
-
+<p>For site information and updates, follow <a href="https://twitter.com/maintainerorg">MaintainerOrg on Twitter</a>.</p>
 
 </div>

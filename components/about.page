@@ -1,14 +1,14 @@
 <div id="content"> 
-Maintainer.org was started by Mike Hoye in January of 2017. The goal of Maintainers.Org is to share resources and expertise in Open Source project maintenance and community management, and to help people get help.
+<p>Maintainer.org was started by Mike Hoye in January of 2017. The goal of Maintainer.Org
+is to share resources and expertise in Open Source project maintenance and community management, and to help people get help.</p>
 
-It was inspired by Nadia Eghbal's 2017 LinuxConf Australia keynote, "Consider The Maintainer."
+<p>It was inspired by Nadia Eghbal's 2017 LinuxConf Australia keynote, "Consider The Maintainer."</p>
+<br>
+<center><iframe width="640" height="360" src="https://www.youtube.com/embed/W2AR1owg0ao" frameborder="0" allowfullscreen></iframe></center>
+<br>
+<p>The Maintainer.org <a href="coc.html">community participation policy and code of conduct are here</a>. 
+The privacy policy is extremely limited - posts to maintainer.org forums are public.</p>
 
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/W2AR1owg0ao" frameborder="0" allowfullscreen></iframe></center>
-
-Our <a href="coc.html">community participation policy and code of conduct are here</a>.
-
-Our privacy policy is extremely limited - posts to maintainer.org forums are public, though we will  
-
-If you have questions or concerns, please comment on GitHub or <a href="mailto:mhoye@bespokeio.com?subject=maintainer.org">mhoye@bespokeio.com</a> directly.
+<p>If you have questions or concerns, please comment on GitHub or <a href="mailto:mhoye@bespokeio.com?subject=maintainer.org">mhoye@bespokeio.com</a> directly.</p>
 
 </div>

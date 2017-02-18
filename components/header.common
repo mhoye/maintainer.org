@@ -5,7 +5,8 @@
 <style type="text/css">
 
 	body {
-		font-family: 'Helvetica', 'Tahoma', 'Arial', sans-serif;
+		/*font-family: 'Helvetica', 'Tahoma', 'Arial', sans-serif;*/
+		font-family: 'Ubuntu Mono Regular','Lucida Console Regular', 'Consolas','Courier New', monospace;
 		max-width: 720px;
 		margin: 0 auto;
 		margin-top: 1em;
@@ -40,6 +41,9 @@
 	h2 {
 		text-align: center;
                 font-family: 'Ubuntu Mono Regular','Lucida Console Regular', 'Consolas','Courier New', monospace;
+	}
+	p {
+		margin-top: 1em;
 	}	
 	#title {
 		font-size: 72px;
