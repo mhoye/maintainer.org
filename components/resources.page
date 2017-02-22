@@ -1,11 +1,32 @@
-<div id="content">
+<iv id="content">
 
-This is a placeholder. This page is intended to contain:
+<h1>Resources</h1>
 
+<p>This page lists support and mental health resources by region.
+It is by nature incomplete, but additions are always welcome. Please file
+an issue or pull request <a href="https://github.com/mhoye/maintainer.org/">on
+GitHub</a> if you see errors or omissions.</p> 
+
+<h2>United States</h2>
 <ul>
-<li>Instructional best-practices about code review and maintainership.
-<li>Lists of mental health and personal-care resources, on a region-by-region basis.
+<li><a href="https://www.samhsa.gov/data/mental-health-facilities-data-nmhss/reports">SAMHSA.Gov list of mental health resources by state</a></li>
 </ul>
 
-Pull requests here are 100% welcome. 
+<h2>Canada</h2>
+
+<ul>
+<li><a href="http://healthymindscanada.ca/resources/">Canadian Mental Health Association online mental health resources, sorted by subject.</a>
+<li><a href="http://cmha.ca">CHMA</a> branches by province: 
+<ul> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/Alberta-Division">Alberta</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/British-Columbia-Division">British Columbia</a></li> 
+<li><a href="http://www.cmha.ca/branch_locations/manitoba-and-winnipeg">Manitoba</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/New-Brunswick-Division">New Brunswick</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/Newfoundland-and-Labrador-Division">Newfoundland and Labrador</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/Nova-Scotia-Division">Nova Scotia</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/Ontario-Division">Ontario</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/Prince-Edward-Island-Division">Prince Edward Island</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/Quebec-Division">Quebec</a></li> 
+<li><a href="http://www.cmha.ca/blog/branch_locations/Saskatchewan-Division">Saskatchewan</a></li> </ul></ul>
+
 </div>

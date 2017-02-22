@@ -64,11 +64,11 @@
 	}
 	ul {
 		margin: 0 auto;
-		padding: 0;
+		padding-top: .5em ;
 	}
 	li {
 		margin-bottom: 0.5em;
-		margin-left: 1em;
+		padding-left: .5em;
 		list-style-type: circle;
 	}
 	
